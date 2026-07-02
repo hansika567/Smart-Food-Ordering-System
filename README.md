@@ -1,4 +1,4 @@
-# Canteen Management System
+# Smart Food Ordering System
 
 A responsive frontend web application for ordering food online.
 
